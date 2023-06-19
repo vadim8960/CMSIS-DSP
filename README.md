@@ -5,7 +5,7 @@
 
 ## About
 
-CMSIS-DSP is an optimized compute library for embedded systems (DSP is in the name for legacy reasons).
+CMSIS-DSP is an optimized compute library for embedded systems (DSP is in the name for legacy reasons from CMSIS-4).
 
 It provides optimized compute kernels for Cortex-M and for Cortex-A.
 
